@@ -73,10 +73,10 @@ h1::before {
 h1::after {
     content: '';
     position: absolute;
-    top: -10px; /* Slightly offset to create a layered effect */
-    left: -10px; /* Slightly offset to create a layered effect */
-    width: calc(100% + 20px); /* Adjust width for offset */
-    height: calc(100% + 20px); /* Adjust height for offset */
+    top: -6px; /* Slightly offset to create a layered effect */
+    left: -6px; /* Slightly offset to create a layered effect */
+    width: calc(100% + 12px); /* Adjust width for offset */
+    height: calc(100% + 12px); /* Adjust height for offset */
     border: 2px solid transparent;
     border-radius: 15px;
     box-sizing: border-box;
