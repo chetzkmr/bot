@@ -154,7 +154,7 @@ reliability and meeting industry standards.
             - Diploma in Automobile engineering, karnataka polytechnic mangalore, 2012-2014
             - B.Tech in Automobile Engineering, Srinivas Institute of Technology, 2014–2017
 
-            Projects:
+            Recent Projects:
             - AI Chatbot
             - Gameplay Analysis. github link - https://github.com/chetzkmr/Gameplay-Analysis
             - Particle Physics Event Classification. github link - https://github.com/chetzkmr/Particle-Physics-Events-Classification
