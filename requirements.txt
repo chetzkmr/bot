@@ -1,5 +1,5 @@
-streamlit as st
-google.generativeai as genai
+streamlit
+google.generativeai
 os
 base64
 SequenceMatcher
