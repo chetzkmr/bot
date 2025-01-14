@@ -36,7 +36,7 @@
     margin: 5px;
 }
 
-h1.custom-title {
+h1 {
     font-family: 'Arial', sans-serif;
     font-weight: bold;
     font-size: 4rem;
@@ -54,7 +54,6 @@ h1.custom-title {
     display: inline-block;
     position: relative;
 }
-
 
 /* Before pseudo-element */
 h1::before {
@@ -101,11 +100,3 @@ h1::after {
     75% { border-color: #ff007f; } /* Pink */
     100% { border-color: #00ff00; } /* Green */
 }
-
-
-
-
-
-
-
-
