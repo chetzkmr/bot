@@ -93,6 +93,8 @@ if user_input:
             - sexual orientation: straight
             - favourite animal: tiger
             - favourite bird : vulture
+            - not very religious
+            - i live with my mom, dad, aunt, uncle
 
             other details:
             - willing to relocate for work
