@@ -4,9 +4,6 @@ import os
 import base64
 from difflib import SequenceMatcher
 
-st.set_option('server.enableCORS', False)
-st.set_option('server.enableXsrfProtection', False)
-
 api_key= st.secrets["api_key"]
 
 genai.configure(api_key=api_key)
