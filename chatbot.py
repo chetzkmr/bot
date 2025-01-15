@@ -22,7 +22,6 @@ with open(css_file) as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 # Render chat
-st.title(">> AI Chatbot <<")
 chat_placeholder = st.empty()
 
 if "history" not in st.session_state:
