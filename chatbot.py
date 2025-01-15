@@ -95,6 +95,7 @@ if user_input:
             - favourite bird : vulture
             - not very religious
             - i live with my mom, dad, aunt, uncle
+            - siblings: none
 
             other details:
             - willing to relocate for work
@@ -108,6 +109,7 @@ if user_input:
             - commited crime or criminal record: never
             - police case: none
             - owns laptop, can work remotely or work from home
+            - languages known: English, kannada, hindi, tulu, konkani
             
 
             Contact Details:
@@ -152,7 +154,7 @@ reliability and meeting industry standards.
 
 
             Education:
-            - SSLC or 10th from Padua high school, secured 83.04%
+            - SSLC/10th from Padua high school, secured 83.04%
             - Diploma in Automobile engineering, karnataka polytechnic mangalore, 2012-2014
             - B.Tech in Automobile Engineering, Srinivas Institute of Technology, 2014–2017
 
