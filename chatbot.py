@@ -4,23 +4,6 @@ import os
 import base64
 from difflib import SequenceMatcher
 
-# Allow iframe embedding by setting response headers
-st.set_page_config(page_title="AI Chethan Chatbot")
-
-def add_header():
-    st.markdown(
-        """
-        <style>
-        iframe {
-            display: block;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
-
-add_header()
-
 api_key= st.secrets["api_key"]
 
 genai.configure(api_key=api_key)
