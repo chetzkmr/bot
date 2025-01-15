@@ -4,13 +4,13 @@ import os
 import base64
 from difflib import SequenceMatcher
 
+st.set_option('server.enableCORS', False)
+st.set_option('server.enableXsrfProtection', False)
+
 api_key= st.secrets["api_key"]
 
-
-# Configure the generative AI model
 genai.configure(api_key=api_key)
 
-# Function to encode images in Base64
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode("utf-8")
